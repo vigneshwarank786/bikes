@@ -3,8 +3,9 @@
     .main{
         background-image: url(./images/wallpaperflare.com_wallpaper\ \(6\).jpg);
         width: 100%;
-        min-height: 700px;
+        min-height: 740px;
         max-height: max-content;
         background-size:cover;
         background-repeat: no-repeat;
+        background-position: center;
     }
