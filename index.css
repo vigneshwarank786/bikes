@@ -1,0 +1,17 @@
+.main{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background: linear-gradient(110deg, #b48f21 60%, #b48f21 60%);
+
+}
+
+nav{
+    background: linear-gradient(110deg, #388302 60%, #05b04a 60%);
+}
+
+.contents{
+    background: linear-gradient(110deg, #fad76e 60%, #faec74 60%);
+    padding: 5px;
+
+}
+   
